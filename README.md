@@ -17,7 +17,7 @@
 <h3>
 <ul>
 <li> Hello , I'm Anant  </li>
-<li> Pre - Final year Undergraduate student at IIIT Delhi. </li>
+<li> Second year Undergraduate student at IIIT Delhi. </li>
 <li> I'm interested in DSA, Machine Learning, Problem-solving and Web Dev. </li>
 <li> How to reach me: 
       <ul>
